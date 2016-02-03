@@ -1,0 +1,111 @@
+fileFormatVersion: 2
+guid: 836990b205d684582859b2c0365bb107
+timeCreated: 1454188682
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: botao
+    21300002: hud_1
+    21300004: logo
+    21300006: thefuck
+    21300008: barra
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: botao
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1453
+        width: 1850
+        height: 509
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud_1
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 1923
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: logo
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 882
+        width: 1852
+        height: 509
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: thefuck
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 377
+        width: 2021
+        height: 377
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 172
+        width: 1322
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 15, y: 15, z: 15, w: 15}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

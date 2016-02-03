@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: fa1c150601a324cb19c62747505b3533
+timeCreated: 1454203339
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: faca
+    21300002: cutelo
+    21300004: dildo
+    21300006: thor
+    21300008: time
+    21300010: cash
+    21300012: totem
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: faca
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 613
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cutelo
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 613
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dildo
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 613
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: thor
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 613
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: time
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 201
+        width: 313
+        height: 310
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cash
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 213
+        width: 285
+        height: 285
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: totem
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 189
+        width: 322
+        height: 334
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
